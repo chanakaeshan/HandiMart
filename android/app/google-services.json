@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "60203381452",
+    "project_id": "handimart-fe5cc",
+    "storage_bucket": "handimart-fe5cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60203381452:android:213cbc7c7f80bffd6b4869",
+        "android_client_info": {
+          "package_name": "com.example.t_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60203381452-qbsj9h9m2sti490u4arute67qu9tp7g8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.t_store",
+            "certificate_hash": "3f84801197d17f0c8774fa8d0fb14c2fa75f0236"
+          }
+        },
+        {
+          "client_id": "60203381452-ebht4mk5b3n3n8qjiv1md4ok6qcbokk0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJHQ--TPbURfQGdRYHsdpc3WzX66VLJP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60203381452-ebht4mk5b3n3n8qjiv1md4ok6qcbokk0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "60203381452-80lo296r50re9vnntdacua69o0m4b4kq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tStore.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,6 +1,6 @@
 {
-    "name": "handimart",
-    "short_name": "handimart",
+    "name": "t_store",
+    "short_name": "t_store",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
