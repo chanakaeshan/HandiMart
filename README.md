@@ -6,7 +6,7 @@ A new Flutter project.
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/code-dart-informational?style=flat&logo=dart&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-vscode-informational?style=flat&logo=vscode&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/db-firebase-informational?style=flat&logo=dart&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/db-firebase-informational?style=flat&logo=#DD2C00&logoColor=white&color=2bbc8a)
 
 ## Getting Started
 
