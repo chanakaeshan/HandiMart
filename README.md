@@ -2,7 +2,11 @@
 
 A new Flutter project.
 
-![](https://img.shields.io/badge/language-dart-informational?style=flat&logo=dart&logoColor=white&color=2bbc8a)
+
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/code-dart-informational?style=flat&logo=dart&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-vscode-informational?style=flat&logo=dart&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/db-firebase-informational?style=flat&logo=dart&logoColor=white&color=2bbc8a)
 
 ## Getting Started
 
