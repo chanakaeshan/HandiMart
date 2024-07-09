@@ -1,6 +1,8 @@
-# t_store
+# HandiMart
 
 A new Flutter project.
+
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=dart&logoColor=white&color=2bbc8a)
 
 ## Getting Started
 
